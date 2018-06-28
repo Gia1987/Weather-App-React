@@ -2,7 +2,14 @@
 
 This App has been create using 'Create React App' package.
 This app allows the user to check the weather by entering the name of the City and the Country.
-The project has been done by spiking code (just practice react), so I haven't done any test (yet).
+The project has been done with spiking code approach (just practice react), so I haven't done any test (yet).
+
+## To run the App
+```
+clone this repo: https://github.com/Gia1987/Weather-App-React.git
+cd Weather-App-React
+npm start
+```
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
